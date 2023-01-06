@@ -1,4 +1,4 @@
-# WEB102 Prework - Sea Monster Crowdfunding
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
 Submitted by: **Miguel Sablan**
 
@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/miguelSablan/Web102Prework/blob/main/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with Kap
+GIF created with LiceCap
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
